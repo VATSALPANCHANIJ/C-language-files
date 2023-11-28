@@ -26,17 +26,26 @@ main(){
     
     printf("************************ \n\n\n\n");
     //4
-     printf("*\n");
-    printf("*\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t*\n");
-    printf("*\t\t\t\t\t\t*\t\t\t\t\t\t\t\t\t*\n");
-    printf("*\t\t\t\t*\t\t\t\t*\t\t\t\t\t\t\t*\n");
-    printf("*\t\t*\t\t\t*\t\t\t*\t\t\t\t\t\t*\n");
-    printf("*\t\t\t\t\t\t\t*\t\t\t\t\t\t\t\t\t*\n");
-    printf("*\t\t\t\t\t\t\t\t*\t\t\t\t\t\t\t\t*\n");
-    printf("*\t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t*\n");
-    printf("*\t\t\t\t\t\t\t\t\t\t*\t\t\t\t*\n");
-    printf("*\t\t\t\t\t\t\t\t\t\t\t*\t\t*\n");
-    printf("*\t\t\t\t\t\t\t\t\t\t\t\t*\n");
+  
+
+//*                   *   *                        *
+//*               *           *                 *
+//*           *                   *         *
+//*       *                           *  *
+//*    *
+//*
+
+
+    printf("*\n");//1 
+    printf("*\n");//2
+    printf("*\n");//3
+    printf("*\t**              \n");
+    printf("*      *  *        *\n");
+    printf("*    *     *      *\n");
+   	printf("*   *       *    * \n");
+    printf("*  *         *  *  \n");
+    printf("*\n");
+    printf("*\n");
     
     return 0;
 }
