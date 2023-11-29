@@ -1,4 +1,4 @@
-#include<stdio.h>
+
 main(){
 	//1
 	printf("My name is vatsal \n");
